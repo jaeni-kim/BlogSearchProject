@@ -1,4 +1,4 @@
-package com.example.SpringBoot.demo;
+package com.example.BlogSearch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

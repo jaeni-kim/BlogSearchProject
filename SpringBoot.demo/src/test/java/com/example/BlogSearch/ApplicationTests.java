@@ -1,4 +1,4 @@
-package com.example.SpringBoot.demo;
+package com.example.BlogSearch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
